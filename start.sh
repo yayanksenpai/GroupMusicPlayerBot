@@ -1,2 +1,2 @@
 python3 clever.py &
-python3 -m callsmusic
+python3 main.py
